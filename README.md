@@ -13,7 +13,7 @@ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python3 get-pip.py
 ```
 
-5.  get selenium
+5.  use pip, the package manager to get selenium
 ```
 pip install selenium
 ```
