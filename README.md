@@ -6,7 +6,12 @@ this is a auto course selector for Dong Hua University
 2.  open terminal
 3.  set up python enviroment (if you haven't done it)
 4.  then you can run autoselector.py
-
-'''python
+```
 python3 autoselector.py
-'''
+```
+
+```javascript
+import copyCodeBlock from '@pickra/copy-code-block';
+// OR
+const copyCodeBlock = require('@pickra/copy-code-block');
+```
