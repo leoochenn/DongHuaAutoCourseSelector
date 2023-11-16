@@ -15,7 +15,7 @@ python3 --version
 pip3 --version
 ```
 
-##  how to use it
+##  HOW TO USE
 1.  install selenium
 ```
 pip install selenium
