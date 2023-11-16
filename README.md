@@ -1,24 +1,26 @@
 # DongHuaAutoCourseSelector
 this is a auto course selector for Dong Hua University
+##  set up python enviroment
+1.  download homebrew
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+2.  use homebrew to download python
+```
+brew install python
+```
+3.  check you python and pip
+```
+python3 --version
+pip3 --version
+```
 
 ##  how to use it
-1.  download autoselector.py
-2.  open terminal
-3.  set up python enviroment (if already done it go to step 6)
-4.  download python3 and pip
-```
-sudo apt-get update
-sudo apt-get install python3
-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-python3 get-pip.py
-```
-
-5.  use pip, the package manager to get selenium
+1.  install selenium
 ```
 pip install selenium
 ```
-
-6.  then you can run autoselector.py
+2.  run the program
 ```
 python3 autoselector.py
 ```
