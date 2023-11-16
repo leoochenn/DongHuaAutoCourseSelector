@@ -74,4 +74,4 @@ if __name__ == '__main__':
     logIn() #   log in to the web site.
     getCourse() #   get the course you want.
     chooseCourse()  #   click all of them.
-    # firefox_driver.quit()   #   close the browser.
+    firefox_driver.quit()   #   close the browser.
