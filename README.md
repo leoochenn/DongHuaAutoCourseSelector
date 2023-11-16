@@ -4,14 +4,17 @@ this is a auto course selector for Dong Hua University
 ##  how to use it
 1.  download autoselector.py
 2.  open terminal
-3.  set up python enviroment (if you haven't done it)
-4.  then you can run autoselector.py
+3.  set up python enviroment (if already done it go to step 4)
+4.  download python3
 ```
-python3 autoselector.py
+sudo apt-get update
+```
+```
+sudo apt-get install python3
 ```
 
-```javascript
-import copyCodeBlock from '@pickra/copy-code-block';
-// OR
-const copyCodeBlock = require('@pickra/copy-code-block');
+
+5.  then you can run autoselector.py
+```
+python3 autoselector.py
 ```
