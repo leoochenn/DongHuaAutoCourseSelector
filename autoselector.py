@@ -9,8 +9,6 @@ password = "password"
 #   first we need to import some helper
 from selenium import webdriver  #   this is a tool to open web browser like firefox, chrome, and edge
 from selenium.webdriver.common.by import By
-import time #   waitting the page to log
-
 
 #   this function opens up the browser, and go the target link
 def open_browser():
